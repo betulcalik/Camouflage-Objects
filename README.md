@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/betulcalik/Camouflage-Objects">
-    <img src="https://github.com/betulcalik/Camouflage-Objects/tree/main/images/logo.png" alt="Logo" width="130" height="100">
+    <img src="https://github.com/betulcalik/Camouflage-Objects/blob/main/images/logo.png" alt="Logo" width="130" height="100">
   </a>
 
   <h1 align="center"> Camouflage Objects </h1>
