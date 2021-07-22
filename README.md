@@ -62,23 +62,23 @@ For using this project, you can use these steps:
 
 1. Original Photo
 
-  <img src='https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/original_picture.png' alt="original photo" width="130" height="100">
+  <img src='https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/original_picture.png' alt="original photo" width="250" height="250">
 
 2. Task 1: Detect object
 
-  <img src="https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/task1.png" alt="detect object" width="130" height="100">
+  <img src="https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/task1.png" alt="detect object" width="250" height="250">
 
 3. Task 2: Dominant colors
 
-  <img src="https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/task2.png" alt="dominat colors" width="130" height="100">
+  <img src="https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/task2.png" alt="dominat colors" width="250" height="250">
 
 4. Task 3: Color pattern
 
-  <img src="https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/task3.png" alt="color pattern" width="130" height="100">
+  <img src="https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/task3.png" alt="color pattern" width="250" height="250">
 
 4. Task 4: Camouflage (Result)
 
-  <img src="https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/task4.png" alt="camouflage" width="130" height="100">
+  <img src="https://github.com/betulcalik/Camouflage-Objects/blob/main/images/project_images/task4.png" alt="camouflage" width="250" height="250">
 
 ### 4. Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
